@@ -2,7 +2,6 @@
 
 ### CS Student at PSU
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avalentino717&label=Profile views&color=0e75b6&style=flat" alt="avalentino717" /> </p>
 
 - 🔭 I'm currently working on **Machine and deep learning**
 
